@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aacprz44utulnouyiygponicxq35a888.node.ppio.cloud:35675/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18X/9.2.3.2/cn/20211202045911/25302566/update.zip?f_ver=v1&max_age=7776000&r=DCdCNRRASBoSKzcKEg45EEo%2BUywdD0lWGy9qIQwdJgIFIVNqIRYeWBFtKAIMFT5EXAsZfElISQZacGoEC0B5RVZiB3dXSFcBQXt0VkpdfkZUYQNzUVUSRRAjMQJLFSIFCyNTKwQeCQQbMiAJBgslRA%3D%3D&ppiouid=624a4d53b737070001456a2672fe02e1
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.3/cn/20220329175846/940e87ac/update.zip
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
